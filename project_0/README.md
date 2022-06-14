@@ -1,9 +1,14 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-* [1. Описание проекта](https://github.com/J-O-Suz/sf_ds/tree/main/project_0/README.md#Описание-проекта)
+* [1. Описание проекта](https://github.com/J-O-Suz/sf_ds/blob/main/project_0/README.md#описание-проекта)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
 
-:arrow_up: [к оглавлению](https://github.com/J-O-Suz/sf_ds/tree/main/project_0/README.md#Оглавление)
+### Какой кейс мы решаем
+### Краткая информация о данных
+### Этапы работы над проектом
+### Результат
+
+:arrow_up: [к оглавлению](https://github.com/J-O-Suz/sf_ds/blob/main/project_0/README.md#оглавление)
