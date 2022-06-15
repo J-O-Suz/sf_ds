@@ -44,7 +44,7 @@
 :arrow_up: [к оглавлению](https://github.com/J-O-Suz/sf_ds/blob/main/project_0_1/README.md#оглавление)
 
 
-### Результаты:  
+### Результат:  
 Был найден алгоритм, в среднем угадывающий число из диапазона от 1 до 100 за 5 попыток.
 
 :arrow_up: [к оглавлению](https://github.com/J-O-Suz/sf_ds/blob/main/project_0_1/README.md#оглавление)
