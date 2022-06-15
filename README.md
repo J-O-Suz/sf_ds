@@ -1,5 +1,5 @@
-# My data science projects
-From the [Skillfactory Data Science course](https://skillfactory.ru/data-scientist-pro)
+# Мои data science проекты
+Из курса [Skillfactory Data Science](https://skillfactory.ru/data-scientist-pro)
 
-## Projects
-* [Project 0. Game: Guess a number](https://github.com/J-O-Suz/sf_ds/tree/main/project_0)
+## Проекты
+* [Проект 0. Игра: угадай число](https://github.com/J-O-Suz/sf_ds/tree/main/project_0_1)
